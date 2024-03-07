@@ -9,13 +9,13 @@ hakubutu-fes-list
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-博物ふぇすてぃばる！
+博物ふぇすてぃばる
 
 # description
 
 > This is the description of the feed.
 
-博物ふぇすてぃばる！関連の投稿(キーワード：博物ふぇすてぃばる, 博物ふぇす, 博ふぇす)
+博物ふぇすてぃばる　関連の投稿
 
 # searchTerms
 
